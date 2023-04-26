@@ -25,7 +25,7 @@ dependencies:
   camera_android:
     git:
       url: git@github.com:lee-do-young/packages.git
-      ref: 42027673a1ef2430f409b2b436809b8887313007
+      ref: main
       path: packages/camera/camera_android
   camera_avfoundation: ^0.9.13
   camera_platform_interface: ^2.4.0
